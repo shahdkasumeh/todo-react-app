@@ -1,0 +1,27 @@
+.iconButton {
+  transition: all 0.2s !important;
+}
+
+.iconButton:hover {
+  background-color: #cbd3e5 !important;
+  box-shadow: 0px 7px 7px rgba(0, 0, 0, 0.4);
+}
+
+.todoCard {
+  transition: all 0.2s !important;
+}
+.todoCard:hover {
+  padding-bottom: 10px;
+  padding-top: 10px;
+  box-shadow: 0px 7px 7px rgba(0, 0, 0, 0.4);
+}
+
+@font-face {
+  font-family: Italic;
+  src: url("C:\Users\toshiba\Desktop\Todo-React\Tarmeez-React-Course-74-project-add-a-new-todo\public\fonts\Lora-VariableFont_wght.ttf");
+}
+
+@font-face {
+  font-family: num2;
+  src: url("C:\Users\toshiba\Desktop\Todo-React\Tarmeez-React-Course-74-project-add-a-new-todo\public\fonts\Lora-Italic-VariableFont_wght.ttf");
+}
